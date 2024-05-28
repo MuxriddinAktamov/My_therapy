@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">MyTherapy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User</string>
+    <string name="nav_header_subtitle">Mobile Raqam</string>
+    <string name="nav_header_subtitleemail">Email</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Sozlamalar</string>
+
+    <string name="menu_home">Asosiy</string>
+    <string name="menu_med">Med Reminder</string>
+    <string name="menu_health">Maslahatlar</string>
+    <string name="menu_first">Online Apteka</string>
+    <string name="menu_notes">Eslatmalar</string>
+    <string name="menu_bmi">TMI Calculator</string>
+    <string name="menu_report">Muolajalar</string>
+
+    <string name="menu_hosp">Shifoxonalar</string>
+    <string name="menu_doc">Docorlar</string>
+    <string name="menu_medical">Dorixonalar</string>
+
+    <string name="menu_profile">Profil</string>
+    <string name="menu_send">Biz haqimizda</string>
+    <string name="menu_share">Ilovani ulashish</string>
+
+    <string name="next">Keyingi</string>
+    <string name="skip">O\'tkazib yuborish</string>
+    <string name="start">Bajarildi</string>
+
+    <string name="slide_1_title">MyTherapy</string>
+    <string name="slide_1_desc">Sizning kundalik tibbiyot eslatmangiz !</string>
+
+    <string name="slide_2_title">MyTherapy</string>
+    <string name="slide_2_desc">Sog\'lom hayot sari qadam tashlang - dorilaringizni o\'z vaqtida iching !</string>
+
+    <string name="slide_3_title">MyTherapy</string>
+    <string name="slide_3_desc">Toza havodan nafas olish mingta tabletka ichishdan ko\'ra foydaliroq !</string>
+
+    <string name="slide_4_title">MyTherapy</string>
+    <string name="slide_4_desc">Davolanishning eng muhim jihati - bu kasallikni oldini olish va dori-darmonlarni o\'z vaqtida va to\'g\'ri qabul qilishdir</string>
+
+    <string name="slide_4_1_desc">Hech qachon doringizni o\'tkazib yubormang!</string>
+
+    <string name="slide_5_desc">Abu Ali Ibn Sino</string>
+
+    <string name="exit_app">Ilovadan chiqmoqchimisiz?</string>
+    <string name="no">Yo\'q</string>
+    <string name="yes">Ha</string>
+    <string name="exit">Chiqish</string>
+
+    <string name="delete_app">Ma\'lumotlarni o\'chirmoqchimisiz?</string>
+    <string name="delete">O\'chirish</string>
+
+    <string-array name="array_type">
+        <item>Turini tanlang</item>
+        <item>Tabletka</item>
+        <item>Capsula</item>
+        <item>Ukol</item>
+        <item>Kukunli tabletka</item>
+        <item>Damlamalar</item>
+        <item>Ingalyator</item>
+        <item>Boshqalar</item>
+    </string-array>
+
+
+    <string-array name="array_unit">
+        <item>ta</item>
+        <item>g</item>
+        <item>mcg</item>
+        <item>mg</item>
+        <item>ml</item>
+        <item>%</item>
+    </string-array>
+
+    <string-array name="array_freq">
+        <item>Dori ichilish tartibini tanlang</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+
+</resources>
